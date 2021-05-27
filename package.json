@@ -1,0 +1,20 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testRunner": "jest-circus/runner"
+  },
+  "dependencies": {
+    "jest": "^26.6.3",
+    "jest-circus": "^26.6.3",
+    "knex": "^0.95.6",
+    "sqlite3": "^4.2.0"
+  }
+}
